@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ph-zh
 - 👀 I’m interested in Any kind of projects who are Welcoming fast learners 🤓
-- 🌱 I’m currently learning Java, C, C++
+- 🌱 I’m currently learning Java and C
 - 💞️ I’m looking to collaborate on Junior stage projects
 - 📫 How to reach me - p.zhavoronkov@gmail.com
 - 💭 I speak English, French, Dutch, Russian
